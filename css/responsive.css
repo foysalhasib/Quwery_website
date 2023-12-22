@@ -1,0 +1,632 @@
+@media (min-width: 320px) and (max-width: 575.98px) { 
+/* ============================Navbar start=================================== */
+.navbar {
+  top: 0;    
+  padding: 10px; 
+  background-color: aquamarine;
+}
+ 
+.navbar .fa-solid.fa-bars i {
+	color: white;
+}
+
+.navbar-toggler{
+	border: 0;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-collapse {
+	background: rgb(235, 147, 16);
+    border-radius: 10px;
+    padding: 10px;
+}
+.navbar .container .navbar-nav {
+	gap: 10px;
+    text-align: center;
+}
+/* ============================Navbar end=================================== */
+/* ============================banner start=================================== */
+#banner_part .container .text {
+	padding: 128px 0 50px;
+}
+#banner_part .container p {
+     font-size: 16px;
+     text-align: center;
+     margin-bottom: -14px;	
+}
+#banner_part .container h1 {
+    font-size: 32px;
+    text-align: center;	
+    margin-bottom: -58px;
+	
+}
+#banner_part .container h2 {
+	font-size: 27px;
+    text-align: center;	
+	
+}
+
+/* ============================banner end=================================== */
+/* ============================EAST start=================================== */
+#east_part {
+	padding-top: 60px;
+}
+
+#east_part .container .row .right {
+	text-align: center;
+    padding-bottom: 0;
+
+}
+#east_part .container .row .right p {
+	font-size: 17px;
+}
+
+#east_part .container .row .right h2 {
+	width: auto;
+	font-size: 14px;
+    margin-top: 9px;
+    
+	
+}
+#east_part .container .row .right h3 {
+	width: auto;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 20px;
+    margin-top: -7px;
+    margin-bottom: 9px;
+
+}
+#east_part .container .row .right a {
+     font-size: 14px;
+}
+/* ============================EAST end=================================== */
+/* ==========================Bromo start ================================== */
+#bromo_part {
+	padding-top: 60px;
+}
+#bromo_part .container .text {
+	padding: 35px;
+	
+}
+
+#bromo_part .container p {
+	font-size: 15px;
+    margin-bottom: 5px;
+}
+#bromo_part .container h2 {
+	width: auto;
+	font-size: 18px;
+}
+
+#bromo_part .container h3 {
+	width: auto;
+	font-size: 12px;
+	line-height: 17px;
+
+}
+
+#bromo_part .container a {
+	font-size: 14px;
+	margin-top: 5px;
+}
+
+
+/* =============================Bromo end ================================= */
+/* =============================Culture start ============================== */
+#culture_part {
+	background: #000;
+	padding-top: 60px;
+}
+
+#culture_part .container .row .left {
+	 padding:0; 
+     text-align: center;
+     
+}
+
+#culture_part .container .row .left p {
+	font-size: 16px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+#culture_part .container .row .left h2 {
+	width: auto;
+	font-size: 21px;
+	text-align: center;
+	margin: 8px;
+}
+#culture_part .container .row .left h3 {
+	margin-bottom: 10px;
+	width: auto;
+	font-size: 13px;
+	line-height: 20px;
+	text-align: center;
+}
+#culture_part .container .row .left a {
+	font-size: 15px;    
+}
+#culture_part .container .row .right img {
+	width: 100%;
+	margin-top: 22px;
+}
+
+/* =============================Culture end ================================= */
+/* =============================footer start ================================= */
+#footer_part {
+	padding: 60px 0 30px;
+}
+.left {
+	text-align: center;
+}
+#footer_part .container .row .left h2 {
+	margin: 18px 0 15px;
+	width: auto;	
+	font-size: 25px;	
+}
+#footer_part .container .row .left p {
+	margin-bottom: 10px;
+}
+
+#footer_part .container .row .right .top {
+	align-items: center;
+	margin-top: 36px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 14px;
+}
+
+#footer_part .container .row .right .top .get {
+	padding: 6px 8px;
+	border-radius: 5px;	
+	font-size: 12px;
+	
+}
+
+#footer_part .container .row .right .bottom {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    
+}
+#footer_part .container .row .right .bottom .about {
+	margin-left: 0;
+}
+#footer_part .copyright h2 {
+	margin-top: 53px;
+	
+}
+/* =============================footer end ================================= */
+
+
+
+
+ }
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* ============================Navbar start=================================== */
+.navbar {
+  top: 0;    
+  padding: 10px; 
+  background-color: aquamarine;
+}
+ 
+.navbar .fa-solid.fa-bars i {
+	color: white;
+}
+
+.navbar-toggler{
+	border: 0;
+}
+.navbar-toggler:focus {
+	box-shadow: none;
+}
+.navbar-collapse {
+	background: rgb(235, 147, 16);
+    border-radius: 10px;
+    padding: 10px;
+}
+.navbar .container .navbar-nav {
+	gap: 10px;
+    text-align: center;
+}
+/* ============================Navbar end=================================== */
+/* ============================banner start=================================== */
+#banner_part .container .text {
+	padding: 128px 0 50px;
+}
+#banner_part .container p {
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: -14px;
+}
+#banner_part .container h1 {
+    font-size: 40px;
+    text-align: center;	
+    margin-bottom: -58px;
+	
+}
+#banner_part .container h2 {
+	font-size: 34px;
+    text-align: center;	
+	
+}
+
+/* ============================banner end=================================== */
+/* ============================EAST start=================================== */
+#east_part {
+	padding-top: 60px;
+}
+
+#east_part .container .row .right {
+	text-align: center;
+    padding-bottom: 0;
+
+}
+#east_part .container .row .right p {
+	font-size: 22px;
+}
+
+#east_part .container .row .right h2 {
+	width: auto;
+	font-size: 18px;
+    margin-top: 9px;
+    
+	
+}
+#east_part .container .row .right h3 {
+	width: auto;
+	font-size: 15px;
+	font-style: normal;
+	line-height: 20px;
+    margin-top: -7px;
+    margin-bottom: 9px;
+
+}
+#east_part .container .row .right a {
+     font-size: 18px;
+}
+/* ============================EAST end=================================== */
+/* ==========================Bromo start ================================== */
+#bromo_part {
+	padding-top: 60px;
+}
+#bromo_part .container .text {
+	padding: 35px;
+	
+}
+
+#bromo_part .container p {
+	font-size: 20px;
+    margin-bottom: 5px;
+}
+#bromo_part .container h2 {
+	width: auto;
+	font-size: 22px;
+}
+
+#bromo_part .container h3 {
+	width: auto;
+	font-size: 16px;
+	line-height: 17px;
+
+}
+
+#bromo_part .container a {
+	font-size: 18px;
+	margin-top: 5px;
+}
+
+
+/* =============================Bromo end ================================= */
+/* =============================Culture start ============================== */
+#culture_part {
+	background: #000;
+	padding-top: 60px;
+}
+
+#culture_part .container .row .left {
+	 padding:0; 
+     text-align: center;
+     
+}
+
+#culture_part .container .row .left p {
+	font-size: 20px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+#culture_part .container .row .left h2 {
+	width: auto;
+	font-size: 25px;
+	text-align: center;
+	margin: 8px;
+}
+#culture_part .container .row .left h3 {
+	margin-bottom: 10px;
+	width: auto;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+}
+#culture_part .container .row .left a {
+	font-size: 19px;    
+}
+#culture_part .container .row .right img {
+	width: 100%;
+	margin-top: 22px;
+}
+
+/* =============================Culture end ================================= */
+/* =============================footer start ================================= */
+#footer_part {
+	padding: 60px 0 30px;
+}
+.left {
+	text-align: center;
+}
+#footer_part .container .row .left h2 {
+	margin: 18px 0 15px;
+	width: auto;	
+	font-size: 27px;	
+}
+#footer_part .container .row .left p {
+	margin-bottom: 10px;
+    font-size: 26px;
+}
+.icon i{
+    font-size: 25px;
+}
+
+#footer_part .container .row .right .bottom{
+    text-align: center;  
+}
+#footer_part .container .row .right .top {
+	align-items: center;
+	margin-top: 36px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 14px;
+}
+#footer_part .container .row .right .top .ready {
+	font-size: 32px;	
+}
+
+#footer_part .container .row .right .top .get {
+	padding: 9px 13px;
+	border-radius: 5px;	
+	font-size: 18px;
+	
+}
+
+
+#footer_part .container .row .right .bottom .about {
+	margin-left: 0;
+}
+#footer_part .copyright h2 {
+	margin-top: 53px;
+	
+}
+/* =============================footer end ================================= */
+
+
+
+
+ }
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ /* =+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++= */
+ @media (min-width: 762px) and (max-width: 991.98px) { 
+    /* ============================Navbar start=================================== */
+    .navbar {
+      top: 0;    
+      padding: 10px; 
+      background-color: rgb(60, 219, 21);
+    }
+     
+    .navbar .fa-solid.fa-bars i {
+        color: white;
+    }
+    
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-collapse {
+        background: rgb(235, 147, 16);
+        border-radius: 10px;
+        padding: 10px;
+    }
+    .navbar .container .navbar-nav {
+        gap: 10px;
+        text-align: center;
+    }
+    /* ============================Navbar end=================================== */
+    /* ============================banner start=================================== */
+    #banner_part .container .text {
+        padding: 158px 0 120px;
+    }
+    #banner_part .container p {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: -14px;
+    }
+    #banner_part .container h1 {
+        font-size: 45px;
+        text-align: center;	
+        margin-bottom: -58px;
+        
+    }
+    #banner_part .container h2 {
+        font-size: 39px;
+        text-align: center;	
+        margin-top: 11px;
+        
+    }
+    
+    /* ============================banner end=================================== */
+    /* ============================EAST start=================================== */
+    #east_part {
+        padding-top: 60px;
+    }
+    #east_part .container .row .right {
+        text-align: center;
+        padding-bottom: 0;
+    
+    }
+    #east_part .container .row .right p {
+        font-size: 24px;
+    }
+    
+    #east_part .container .row .right h2 {
+        width: auto;
+        font-size: 23px;
+        margin-top: 9px;
+        
+        
+    }
+    #east_part .container .row .right h3 {
+        width: auto;
+        font-size: 20px;
+        font-style: normal;
+        line-height: 20px;
+        margin-top: -7px;
+        margin-bottom: 9px;
+    
+    }
+    #east_part .container .row .right a {
+         font-size: 18px;
+    }
+    /* ============================EAST end=================================== */
+    /* ==========================Bromo start ================================== */
+    #bromo_part {
+        padding-top: 90px;
+    }
+    #bromo_part .container .text {
+        padding: 173px 20px;
+    }
+    
+    #bromo_part .container p {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    #bromo_part .container h2 {
+        width: auto;
+        font-size: 27px;
+    }
+    
+    #bromo_part .container h3 {
+        width: auto;
+        font-size: 20px;
+        line-height: 26px;
+    
+    }
+    
+    #bromo_part .container a {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+    
+    
+    /* =============================Bromo end ================================= */
+    /* =============================Culture start ============================== */
+    #culture_part {
+        padding-top: 90px;
+    }
+    
+    #culture_part .container .row .left {
+         padding:0; 
+         text-align: center;
+         
+    }
+    
+    #culture_part .container .row .left p {
+        font-size: 25px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    #culture_part .container .row .left h2 {
+        width: auto;
+        font-size: 23px;
+        text-align: center;
+        margin-top: 23px;
+    }
+    #culture_part .container .row .left h3 {
+        margin-top: -12px;
+        margin-bottom: 10px;
+        width: auto;
+        font-size: 19px;
+        line-height: 29px;
+        text-align: center;
+    }
+    #culture_part .container .row .left a {
+        font-size: 19px;    
+    }
+    #culture_part .container .row .right img {
+        width: 100%;
+        margin-top: 22px;
+    }
+    
+    /* =============================Culture end ================================= */
+    /* =============================footer start ================================= */
+    #footer_part {
+        padding: 60px 0 30px;
+    }
+    .left {
+        text-align: center;
+    }
+    #footer_part .container .row .left h2 {
+        margin: 18px 0 15px;
+        width: auto;	
+        font-size: 27px;	
+    }
+    #footer_part .container .row .left p {
+        margin-bottom: 10px;
+        font-size: 26px;
+    }
+    .icon i{
+        font-size: 25px;
+    }
+    
+    #footer_part .container .row .right .bottom{
+        text-align: center;  
+    }
+    #footer_part .container .row .right .top {
+        align-items: center;
+        margin-top: 36px;
+        display: flex;
+        flex-direction: column;
+        row-gap: 14px;
+    }
+    #footer_part .container .row .right .top .ready {
+        font-size: 32px;	
+    }
+    
+    #footer_part .container .row .right .top .get {
+        padding: 9px 13px;
+        border-radius: 5px;	
+        font-size: 18px;
+        
+    }
+    
+    
+    #footer_part .container .row .right .bottom .about {
+        margin-left: 0;
+    }
+    #footer_part .copyright h2 {
+        margin-top: 53px;
+        
+    }
+    /* =============================footer end ================================= */   
+ }
+
+
+ 
